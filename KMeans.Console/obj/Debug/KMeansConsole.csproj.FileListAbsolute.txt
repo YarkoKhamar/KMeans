@@ -1,0 +1,5 @@
+c:\users\yaroslav khamar\documents\visual studio 2015\Projects\KMeans\KMeans.Console\bin\Debug\KMeansConsole.exe
+c:\users\yaroslav khamar\documents\visual studio 2015\Projects\KMeans\KMeans.Console\bin\Debug\KMeansConsole.pdb
+c:\users\yaroslav khamar\documents\visual studio 2015\Projects\KMeans\KMeans.Console\obj\Debug\KMeansConsole.csprojResolveAssemblyReference.cache
+c:\users\yaroslav khamar\documents\visual studio 2015\Projects\KMeans\KMeans.Console\obj\Debug\KMeansConsole.exe
+c:\users\yaroslav khamar\documents\visual studio 2015\Projects\KMeans\KMeans.Console\obj\Debug\KMeansConsole.pdb
